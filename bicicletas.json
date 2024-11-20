@@ -1,0 +1,102 @@
+
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio": 2022,
+        "color": "Negro",
+        "peso": 15,
+        "tipo": "Montañera",
+        "precio": 1200,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "Regal",
+        "rodado": 28,
+        "anio": 2021,
+        "color": "Gris",
+        "peso": 16,
+        "tipo": "Paseo",
+        "precio": 1000,
+        "vendida": true
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Sunshine",
+        "rodado": 26,
+        "anio": 2020,
+        "color": "Celeste",
+        "peso": 13,
+        "tipo": "Retro",
+        "precio": 900,
+        "vendida": false
+    },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo": "Techno",
+        "rodado": 16,
+        "anio": 2019,
+        "color": "Rojo",
+        "peso": 17,
+        "tipo": "Triatlón",
+        "precio": 1500,
+        "vendida": true
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo": "FM18F29AM210",
+        "rodado": 29,
+        "anio": 2021,
+        "color": "Amarillo",
+        "peso": 14,
+        "tipo": "Montañera",
+        "precio": 1300,
+        "vendida": false
+    },
+    {
+        "id": 6,
+        "marca": "SLP",
+        "modelo": "Ruta",
+        "rodado": 28,
+        "anio": 2022,
+        "color": "Rosa",
+        "peso": 16,
+        "tipo": "Paseo",
+        "precio": 1100,
+        "vendida": false
+    },
+    {
+        "id": 7,
+        "marca": "Halley",
+        "modelo": "Regal",
+        "rodado": 29,
+        "anio": 2020,
+        "color": "Verde",
+        "peso": 15,
+        "tipo": "Retro",
+        "precio": 950,
+        "vendida": true
+    },
+    {
+        "id": 8,
+        "marca": "Fixie",
+        "modelo": "Techno",
+        "rodado": 26,
+        "anio": 2019,
+        "color": "Naranja",
+        "peso": 17,
+        "tipo": "Triatlón",
+        "precio": 1400,
+        "vendida": false
+    }
+]
+
+
+
